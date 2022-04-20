@@ -1,5 +1,5 @@
 '''
-Problem 8
+hw4 - problem 8
 '''
 
 import mglearn
