@@ -1,5 +1,5 @@
 '''
-hw4 - problem 6
+hw4 - problem 7
 
 References:
     textbook - introduction to machine learning with python, a guide for data scientists bu andreas c. muller and sarah guido
